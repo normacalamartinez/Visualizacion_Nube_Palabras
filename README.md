@@ -17,4 +17,7 @@ Ahora si entremos en materia para conocer un poco más.
 
 https://public.tableau.com/profile/norma3085#!/vizhome/NLP_Tweet_Halloween/TableroTweet
 
+![Resultados](/archivos/tablero.png)
+
+
 🦉 ¡Gracias por leerme!  🦉
