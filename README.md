@@ -12,7 +12,7 @@ Ahora si entremos en materia para conocer un poco más.
 ![Resultados](/archivos/guitarra.png)
 
 ### Imágen con nube de palabras.
-![Resultados](/archivos/guitarra.png)
+![Resultados](/archivos/guitarra_exp.png)
 
 
 🦉 ¡Gracias por leerme!  🦉
