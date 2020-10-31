@@ -8,7 +8,10 @@ Ahora si entremos en materia para conocer un poco más.
 ## Cargar datos, imágenes y demás materiales para visualización.
 <br> 
 
-### Una pre-visualización para análisis.
+### Imágen Original.
+![Resultados](/archivos/guitarra.png)
+
+### Imágen con nube de palabras.
 ![Resultados](/archivos/guitarra.png)
 
 
