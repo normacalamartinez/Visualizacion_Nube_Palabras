@@ -1,4 +1,4 @@
-# ☁️ Visualizacion_Nube_Palabras ☁️
+# ☁️🔢  Visualizacion_Nube_Palabras ☁️🔢 
 
 En este repositorio vamos a ver la manera de hacer una nube de palabras y también como utilizar una imágen en donde podemos utilziarla para incluir nuestras palabras del texto cargago todo desde Python. 🐍
 
